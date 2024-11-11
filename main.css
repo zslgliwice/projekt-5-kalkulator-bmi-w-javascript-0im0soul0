@@ -2,3 +2,17 @@ body {
 	background-color: #111;
 	color: #efefef;	
 }
+
+article {
+	padding-left: 20px;
+}
+
+#wynik1{
+	font-size: large;
+	margin-left: 20px;
+}
+
+#wynik{
+	font-size: large;
+	margin-left: 20px;
+}
